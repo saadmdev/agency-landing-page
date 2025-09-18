@@ -26,8 +26,9 @@ Copy code
 
 ---
 
-## 📸 Preview
-*(Add a screenshot or GIF of your website here once hosted or captured)*
+### 🌐 Live Overview
+
+[![View Live](https://img.shields.io/badge/View%20Live-%231DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://saadmdev.github.io/agency-landing-page/)
 
 ---
 
