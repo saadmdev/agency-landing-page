@@ -21,7 +21,6 @@ agency/
 │ ├── about.png
 │ └── world-map.png
 
-yaml
 Copy code
 
 ---
