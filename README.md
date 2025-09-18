@@ -34,7 +34,7 @@ Copy code
 ## 🛠️ Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/saadmdev/creative-agency-website.git
+   git clone https://github.com/saadmdev/agency-landing-page.git
 Open the project folder:
 
 bash
