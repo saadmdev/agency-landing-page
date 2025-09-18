@@ -34,7 +34,7 @@ Copy code
 ## 🛠️ Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/creative-agency-website.git
+   git clone https://github.com/saadmdev/creative-agency-website.git
 Open the project folder:
 
 bash
@@ -60,6 +60,5 @@ This project is licensed under the MIT License – free to use and modify.
 
 👨‍💻 Author
 Your Name
-Portfolio: [your-portfolio-link]
-GitHub: [your-github-link]
-LinkedIn: [your-linkedin-link]
+Muhammad Saad
+GitHub: saadmdev
